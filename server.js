@@ -13,7 +13,7 @@ const db = mysql.createConnection(
         host: "localhost",
         port: 3307,
         password: "",
-        database: "felveteli"
+        database: "atletikavb2017"
     }
 
 )
